@@ -1,0 +1,7 @@
+Podsumowując, książka przedstawia Strahda jako centralną postać Barovii, jej wybawcę i wiecznego władcy. Zachęca mieszkańców Barovii do uznania jego prawdziwej roli i oddania mu należnego mu szacunku.
+
+1. **Strahd jako Barovia**: Książka opisuje Strahda nie tylko jako władcy Barovii, ale jako jej esencję. Strahd jest nierozerwalnie związany z Barovią, jest jej duszą i sercem.
+2. **Strahd jako wybawca**: Strahd uwolnił Barovię od złowrogich sił, takich jak wiedźmy, które kontrolowały krainę. Wprowadził porządek i prawo, zastępując krwawe rządy Leśnego Ludu.
+3. **Bóstwa a Barovia**: Bóstwa opuściły Barovię, a ich brak wsparcia jest przyczyną potępienia dusz w tej krainie. Ludzie powinni szukać pomocy gdzie indziej, a nie u opuszczających ich bóstw.
+4. **Strahd jako wieczny bohater**: Strahd jest często niewłaściwie postrzegany i nazywany diabłem. Jednak to on przyniósł bezpieczeństwo i kulturę do Barovii, co widać na przykładzie Zamku Ravenloft. Mimo że wielu bohaterów twierdzi, że pokonali Strahda, zawsze powraca, udowadniając swoją wieczność.
+5. **Strahd jako ucieleśnienie Pana Poranka**: Chociaż jest to kontrowersyjne twierdzenie, książka sugeruje, że Strahd może być ucieleśnieniem Pana Poranka. Wrogowie Strahda czczą Pona Poranka jako jego przeciwieństwo, nie zdając sobie sprawy, że to Strahd może być źródłem jego mocy. Gdy ludzie w końcu uznają Strahda za prawdziwego boga Barovii, światło dnia zostanie przywrócone.

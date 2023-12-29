@@ -1,0 +1,5 @@
+Ismark Kolyanovich, często nazywany "Ismarkem Niesmiałkiem", jest synem Kolyana Indirovicha, burmistrza wioski Barovia w krainie Barovii. Po śmierci swojego ojca, Ismark staje się de facto przywódcą wioski. Mimo swojego przydomka "Niesmiałek", Ismark jest odważny i zdecydowany w obronie swojej rodziny i wioski przed zagrożeniami, które czyhają w Barovii, zwłaszcza przed Strahdem von Zarovichem.
+
+Jest bardzo oddany swojej przybranej siostrze, [[Ireena Kolyanova]], i robi wszystko, aby ją chronić. Wiedząc o zainteresowaniu Strahda Ireeną, Ismark prosi bohaterów o pomoc w przewiezieniu jej do bezpiecznego miejsca, z dala od wampirzego hrabiego.
+
+Ismark jest mężczyzną o silnej woli, lojalnym i honorowym. Choć może nie być tak charyzmatyczny czy pewny siebie jak inni przywódcy, jego determinacja w obronie tych, których kocha, czyni go ważnym sojusznikiem w walce przeciwko mrokom Barovii.

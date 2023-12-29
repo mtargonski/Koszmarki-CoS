@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "88cf2c4e95a96a16",
+    "type": "split",
+    "children": [
+      {
+        "id": "910b94fbd9256171",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "10192f366bffa8c2",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "! World/Mapa Barovii - GM.jpg"
+              }
+            }
+          },
+          {
+            "id": "96922a96980b3170",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 1/Svalich Road.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0856512e07af00d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 1/Wioska Barovia/Locations/Kościół Pana Poranka.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ce0add5cdde8a72e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Act 1/Wioska Barovia/Locations/Cmentarz.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "506ecdd3c8f90cd7",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c60155e1f56269c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78a2d65e9305c287",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3be671b120f12c17",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "50374fe5a88cc692",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 358.5
+  },
+  "right": {
+    "id": "d11b0c3f8bca0206",
+    "type": "split",
+    "children": [
+      {
+        "id": "3493914914900e2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fc61d34cbd871c1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Act 1/Wioska Barovia/Locations/Cmentarz.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "8b5d64c1315d5974",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Act 1/Wioska Barovia/Locations/Cmentarz.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4d6617cd25bdf19e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b3e24ffbd20100b9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Act 1/Wioska Barovia/Locations/Cmentarz.md"
+              }
+            }
+          },
+          {
+            "id": "84794b4b37242264",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "78a2d65e9305c287",
+  "lastOpenFiles": [
+    "Act 1/Wioska Barovia/NPCs/Kolyan Indirovich.md",
+    "Act 2/Vallaki/NPC/Blinsky.md",
+    "NPCs/Strahd von Zarovich.md",
+    "Act 1/Tser Pools Vistani/Madam Eva.md",
+    "Act 1/Tser Pools Vistani/Madam Eva.md.opdownload",
+    "Act 1/Tser Pools Vistani/Fortunes of Ravenloft.md.opdownload",
+    "Act 1/Tser Pools Vistani/Fay quest.md",
+    "Act 1/Tser Pools Vistani/Fay quest.md.opdownload",
+    "Act 1/Wioska Barovia/Locations/Kościół Pana Poranka.md",
+    "Act 1/Wioska Barovia/Locations/Cmentarz.md",
+    "Act 1/Wioska Barovia/Locations/Posiadłośc Burmistrza.md",
+    "! Testy/Horror - przerażenie.md",
+    "z_Assets/Handouts/Books - streszczenie/Fanes of Barovia.md",
+    "z_Assets/Handouts/Books - streszczenie/Legend of Lugdana.md",
+    "Act 1/Wioska Barovia/Wioska Barovia.md",
+    "! World/Mapa Barovii - GM.jpg",
+    "Act 1/Wioska Barovia/Locations/Tawerna Krew Winorośli.md",
+    "NPCs/Ismark Kolyanowicz.md",
+    "Act 1/Wioska Barovia/Locations/Zakład handlowy Bildartha.md",
+    "Act 1/Svalich Road.md",
+    "! Testy/Despair - rozpacz.md",
+    "! Testy/Fear - Strach.md",
+    "NPCs/Vistani/Klątwy Vistanii.md",
+    "modules/cos-villageofbarovia-pk/assets/scene/Black Carriage.webp.md",
+    "modules/cos-villageofbarovia-pk/assets/scene",
+    "modules/cos-villageofbarovia-pk/assets",
+    "modules/cos-villageofbarovia-pk",
+    "modules",
+    "NPCs/Ireena Kolyanova.md",
+    "Strahd von Zarovich.md",
+    "Kolyan Indirovich.md",
+    "Act 1/Wioska Barovia/Locations/Dom Szalonej Marii.md",
+    "Blinsky.md",
+    "Zamek Ravenloft.md",
+    "NPCs/Vampire Brides",
+    "NPCs/Vistani",
+    "Act 1/Counts Manor/handouts/Night of Darkness.pdf",
+    "z_Assets/images/odłamek bursztynu.png",
+    "z_Assets/images/Gray_avatar.png",
+    "z_Assets/images/Radagast_avatar.png",
+    "z_Assets/images/Nightchill_avatar.png",
+    "z_Assets/images/Wulfrig_avatar.png",
+    "z_Assets/images/Tauriel_avatar.png",
+    "! World/Mapa Barovii.jpg",
+    "! World/-GM.jpg",
+    "! World/Map of Barovia - 8k - All Names - No Scale - Without Hex.jpg"
+  ]
+}

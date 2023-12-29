@@ -1,0 +1,2 @@
+>Stary kościół stoi złowieszczo na skraju wioski, jego kamienne ściany i drewniane belki skrywają ślady stuleci wystawienia na działanie żywiołów. Cmentarz otaczający kościół jest porośnięty chwastami, a nagrobki są pochylone i pokryte mchem, co sprawia wrażenie opuszczonych od wieków. Księżyc rzuca na tę scenę niesamowity blask, oświetlając poskręcane gałęzie drzew i cienie nagrobków. Powietrze jest nieruchome i ciche, jeśli nie liczyć od czasu do czasu pohukiwania sowy lub szelestu liści na wietrze.
+

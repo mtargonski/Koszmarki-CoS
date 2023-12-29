@@ -1,0 +1,2 @@
+Token prompt
+Prompt: top view of a tortle bald hexblade warlock, holding a shadowy axe in ome hand, with an eldritch blast readying in the other hand, purple scale skin and a grey turtle shell on his back, in combat stance, hyper realistic, circle stone floor token, white background, fantasy, vtt token style, png 

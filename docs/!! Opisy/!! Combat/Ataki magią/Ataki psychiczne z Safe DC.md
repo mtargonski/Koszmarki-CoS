@@ -1,0 +1,11 @@
+
+1. "Twój czar psychiczny uderza w umysł przeciwnika. Jego oczy rozszerzają się z przerażenia, a potem zaczyna się trząść, jakby doświadczał koszmaru na jawie."
+2. "Rzucasz zaklęcie, które powoduje, że przeciwnik zaczyna krwawić z nosa. Jego oczy stają się szkliste, a on sam zaczyna się chwiać, niezdolny do skupienia się na walce."
+3. "Twój czar powoduje, że przeciwnik zaczyna się dusić, jakby niewidzialna dłoń ściskała mu gardło. Jego oczy są pełne strachu, a twarz staje się coraz bardziej siny."
+4. "Rzucasz zaklęcie, które powoduje, że przeciwnik zaczyna krzyczeć, chwytając się za głowę. Jego oczy są pełne bólu, a z jego ust wypływa krew."
+5. "Twój czar powoduje, że przeciwnik zaczyna drżeć. Jego oczy stają się szkliste, a on sam zaczyna się chwiać, niezdolny do skupienia się na walce."
+6. "Rzucasz zaklęcie, które powoduje, że przeciwnik zaczyna krwawić z nosa. Jego oczy stają się szkliste, a on sam zaczyna się chwiać, niezdolny do skupienia się na walce."
+7. "Twój czar powoduje, że przeciwnik zaczyna się dusić, jakby niewidzialna dłoń ściskała mu gardło. Jego oczy są pełne strachu, a twarz staje się coraz bardziej siny."
+8. "Rzucasz zaklęcie, które powoduje, że przeciwnik zaczyna krzyczeć, chwytając się za głowę. Jego oczy są pełne bólu, a z jego ust wypływa krew."
+9. "Twój czar powoduje, że przeciwnik zaczyna drżeć. Jego oczy stają się szkliste, a on sam zaczyna się chwiać, niezdolny do skupienia się na walce."
+10. "Rzucasz zaklęcie, które powoduje, że przeciwnik zaczyna krwawić z nosa. Jego oczy stają się szkliste, a on sam zaczyna się chwiać, niezdolny do skupienia się na walce."

@@ -1,0 +1,25 @@
+{
+  "saveWindowLocations": true,
+  "windows": {
+    "DEFAULT": {
+      "hosts": {
+        "DESKTOP-N4OKAJ6": {
+          "x": 488,
+          "y": 88,
+          "width": 668,
+          "height": 680,
+          "fullscreen": false,
+          "maximized": false
+        },
+        "Laptop-MSI": {
+          "x": 1985,
+          "y": 18,
+          "width": 825,
+          "height": 835,
+          "fullscreen": false,
+          "maximized": false
+        }
+      }
+    }
+  }
+}
