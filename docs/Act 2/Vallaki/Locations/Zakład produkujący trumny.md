@@ -1,4 +1,80 @@
 
+Włamując się do trumniarza Henrika, znajdujecie go na poddaszu w sypialni. Ojcu Petrovich udaje się przekonać Henrika aby opowiedział historie o tym jak spotkał Vistanii na składowisku, jak zaproponowali mu prace na wykonanie trumien dla swoich ludzi oraz przysługę, aby przechował ciała dostarczone w skrzyniach. Dodatkowo zgodził sie dostarczyć im kości z kościoła Św Andrala wierząc ze są im potrzebne do jakiegoś ich rytuału.
+
+Henrik wskazał na szafę w sypialni, ze w niej sa kości. W czasie gdy Henrik opowiadał historie a ojciec Petrovich do niej zerknął do szuflady, Radagast i Wulfrig przeczesywali drugą stronę poddasza.
+
+Drzwi do magazynu na poddaszu skrzypią pod waszymi stopami, gdy powoli otwierają się, ujawniając słabo oświetlone, duszne pomieszczenie. Promienie światła przenikają przez szpary w starych deszczułkach, rzucając niepewne cienie na pokryte kurzem skrzynie składowane wzdłuż ścian. Zapach stęchlizny i starego drewna miesza się z niepokojącym, mdłym aromatem, którego nie potraficie zidentyfikować.
+
+Nagle, z jednej ze skrzyń dobiega głuche, drewniane pukanie, a następnie kolejne, aż w końcu wszystkie skrzynie zaczynają się poruszać. Wieka z trzaskiem otwierają się, a z ich czarnych wnętrz wyłaniają się sylwetki przerażających wampirzych pomiotów, które z niepokojącą gracją wyskakują na podłogę poddasza.
+
+Wasze serca przyspieszają, gdy na przodzie pojawia się postać, która emanuje suwerenną pewnością siebie i kontrolą nad sytuacją. Jest to kobieta w oszałamiającej w długiej, żółtej sukni, twarz skrywa za białą, wyrafinowaną maską. Jej oczy, choć niewidoczne, zdają się badać każdego z was, przeszywając was na wskroś. Mimo przerażenia, nie możecie oderwać od niej wzroku, jakby sama jej obecność wymuszała szacunek i poddanie. Jej osoba wypełnia pomieszczenie, zawłada nim.
+
+Kobieta z gracją robi krok w przód, która stoi w kontraście do mrocznej grozy, jaką niesie. W jej ruchach nie ma pośpiechu, w jej postawie - żadnej wątpliwości. Każdy jej gest, choć minimalistyczny, wydaje się być pełen znaczenia i mocy, siły i pewności siebie. Wampiry za nią czekają niecierpliwie, wiedzą jednak, że to ona dyktuje każdy ruch w tej niebezpiecznej grze.
+
+W pomieszczeniu rozprzestrzenia się poczucie nieuchronności i przerażenia. Chociaż jesteście doświadczonymi podróżnikami, w tej chwili czujecie, że stoi przed wami istota, która wykracza poza zwykłe pojęcie zagrożenia. 
+
+
+Kobieta, wyprostowana i pełna niepokojącej gracji, staje przed Radagastem i Wulfrigiem. Jej głos, chłodny i wyraźny, rozbrzmiewa w ciasnym pomieszczeniu:
+
+"Witajcie, nowe zabawki mojego Pana. Jak miło, że odwiedzacie nasz skromny kąt. Hmm, wyglądacie mniej imponująco niż oczekiwałam. Ale cóż, każda zabawa potrzebuje swoich pionków, prawda?"
+
+Jej usta uginają się w cienkim, niemal niewidocznym uśmiechu, gdy dźwięk alarmu przebija się przez ciszę.
+
+"Ach, słyszycie to? Muzyka nocy, rytm serc bijących w strachu. Ktoś właśnie stał się częścią mojej małej niespodzianki. Ostrzegam, ciekawość to niebezpieczna cecha, szczególnie tutaj, w Barovii. Choćbyście się wspięli na szczyt swoich możliwości, nie zdołacie powstrzymać mojego planu. Ani Ludmilla, Anastrasya czy ta chuda nowa zabawka Pana, a tym bardziej wy nie jesteście w stanie ogarnąć mojej wizji."
+
+Jej spojrzenie staje się ostrzejsze, bardziej przenikliwe, jakby mogła widzieć przez ściany i odległości, gdy kieruje wzrok w stronę pomieszczenia skąd dochodzą krzyki alarmu.
+
+
+Tymczasem, w izbie po drugiej stronie poddasza, gdy ojciec Petrovich otwiera szufladę i znajduje ją pustą, jego twarz przybiera wyraz rozczarowania. Nagle, w jego kierunku wystrzeliwuje igła ukryta w szufladzie i dostrzegacie, na niej ślady lepkiej zielonej substancji, gdy ojciec Petrovich wyciąga ja z bólem w szyi.
+Przeraźliwy dźwięk alarmu rozbrzmiewa w powietrzu gdy jedna z lalek Blinskiego krzyczy głośno, a chwilę później dobiega was odgłos trzaskanego drewna i głos kobiety zza ściany.
+
+Petrovich i Ireena wymieniają spojrzenia, a przerażenie maluje się na ich twarzach. Oboje jednocześnie wypowiadają jej imię, świadomi grozy, która czeka.
+
+**Ojciec Petrovich (szeptem):** "Volenta..."
+**Ireena (drżącym głosem):** "Volenta..."
+
+W mgnieniu oka, ojciec Petrovich odwraca się z powrotem do szuflady, jego ręce drżące z połączenia strachu i desperacji.
+
+**Ojciec Petrovich (przerażony):** "Nie, nie, nie. Muszą być tutaj! Święty Andral, prowadź mnie!"
+
+Jego palce przeszukują każdy zakamarek szuflady, aż w końcu wyczuwają ukryte drugie dno. Jego twarz rozjaśnia się, gdy odkrywa małą skrzynkę z ciemnego drewna. Z szybko bijącym sercem podnosi ją, a wewnątrz znajduje kości świętego Andrala.
+
+**Ojciec Petrovich (podnosząc głos):** "Znaleźliśmy je! Święte kości Andrala! Musimy je natychmiast zanieść z powrotem do kościoła!"
+
+Jego głos, choć pełen nadziei, drży od niepokoju. Petrovich, ściskając skrzynkę jak najcenniejszy skarb, spogląda na was, na swoich towarzyszy, błagając was wzrokiem o natychmiastową pomoc i działanie.
+
+**Ojciec Petrovich (wzywając):** "Proszę was, pomóżcie mi! Musimy chronić to, co święte przed ciemnością, która nas otacza!" - mówiąc to mimowolnie odwraca głowę w kierunku skąd jeszcze przed chwila było słychać Volentę.
+
+Po drugiej stronie:
+"No tak, jest was więcej. Radzę wam zostawić to, co znaleźliście. Niektóre skarby są przeklęte, a niektóre pułapki zbyt subtelne dla niewprawionego oka. Chyba, że oczywiście, pragniecie doświadczyć tego, co oznacza prawdziwy ból i strach. Wówczas, bądźcie moimi gośćmi. Ale pamiętajcie, nie każdy dożywa świtu w tych przeklętych murach. Wybierzcie mądrze. Dobrze się składa, że jesteśmy u trumniarza, nie trzeba będzie daleko nosić waszych ciał jak z wami skończę".
+
+Jej słowa wiszą w powietrzu, zimne i groźne, a każde z nich wydaje się być zarówno ostrzeżeniem, jak i zapowiedzią mrocznej przyszłości, gdy jednym skinieniem głowy posyła pomioty do ataku.
+
+-----
+
+Walcząc z nimi, radośnie drwi z ojca Luciana, zauważając:
+
+> „Kiedy sprawię, że ławki waszego małego kościoła zaczerwienią się od krwi” – zachwyca się, „mój ukochany rozpozna prawdziwy klejnot swojego królestwa – _mnie!”
+
+> „Miałam zamiar rozerwać ci gardło na oczach twojej uroczej małej parafii, ale myślę, że dekorowanie schodów kościoła głowami i wnętrznościami twoich przyjaciół nie jest złą alternatywą
+
+---
+> „Myślisz, że twój cenny mały kościół może zapewnić ci bezpieczeństwo? On spali resztę Vallaki, żeby się do ciebie dostać, i zabije resztę tego śmierdzącego robactwa, żeby cię wypędzić! 
+> Przed odejściem szydzi z graczy i obiecuje, że wkrótce się z nimi spotka
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
 Scenariusz ucieczki od Henrika do kościoła św. Andrala w Vallaki dla 4 graczy, Ireeny oraz Ojca Petrovicha przed Volentą Popowsky i 3 vampire spawn. Każda runda to mniej więcej 6 sekund, więc cała ucieczka zajmie około 48 sekund. Poniżej znajdziesz propozycje mechanik i akcji dla każdej rundy.
 
 ### Punkt Startowy:
