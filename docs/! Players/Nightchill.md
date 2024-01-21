@@ -9,6 +9,18 @@ powiązane z [[Radagast]]
 1. Elizabeth Nightchill córka ekscentrycznego Hrabiego Williama Nightchilla, założyciela Fundacji Poszukiwaczy i Zdobywców Dawnych Aterfaktów zajmującej się lokalizowaniem, poszukiwaniem, zdobywaniem i identyfikowaniem mitycznych i magicznych przedmiotów i artefaktów. Elizabeth jednak bardziej wdała się w matkę Lady Victorie, która lubowała sie w organizacjach przyjęć, dekorowaniu wnętrz i prowadziła ogólno pojętę życie twoarzyskie, jak przystało na szlachetnie urodzoną dame. Elizabeth jako dziwietnastoletka została wydana za przystojnego i majętnego syna lorda Carnistera. Niestety szybko się okazało, żę mąż jej jest uzalezniony od hazardu, a ich majątek który nie był tak wielki jak się spodziewała szybko zaczyna się kurczyć. W podobnym czasie w niewyjaśnionych okolicznościch zaginął na jednej z wypraw poszukiwawczych jej ojciec William wraz z jej bratem Hektorem, który miał odziedziczyć fundacje ojca. Elizabeth, by nie utracić pozycji społecznej i zapewnić sobie odpowiedni status materialny, chcąc nie chcąc przejmuje piecze nad fundacją. Wraca równiez do swojego panienskiego nazwiska. Jej mąż w niewyjasnionych okolicznościach znika. Jedni twierdzą że żona pozbyła się kłopotliwego współmałżonka, zamykając go w szpitalu dla obląkanych inni że trzyma go w piwnicach skrzydła posiadłości, które jest w wiecznych remontach. Ach! Szlachetnie urodzeni uwielbiają plotki!
     Elizabeth zajmuje się już 4 lata fundacją, kiedy spotyka Radagasta. Po ostatniej przygodzie, z której cudem wyszła z życiem, stwierdziła, że damie przyda się ochroniarz. Rhadagast nie pyta o wiele, ma dobre referencje, więc podpisują umowę. Radaghast ma od tej pory towarzyszyć jej w poszukiwaniach niezwykłych przedmiotów w roli ochroniarza. Po dwoch latach owocnej współpracy podczas poszukiwan “Posążka Gwiazdy Porannej” zostają zaatakowani przez najemników wysyłanych przez konkurencję z Wrót Baldura - Organizację Certyfikowanych Interdyscyplinarnych Poszukiwaczy Artefaktów. Wtedy to Elizabeth doznaje przebudzenia mocy oraz zwiazanych z tym wizji. Nie dzieli się nimi z Radaghastem, a nowe nabyte umiejętności postanawia używać tylko w ostateczności. Do tego wydarzenia doszło rok temu.
 
+odnośnie przebudzenia mocy u Nightchill, te wizje
+
+> Pierwsza wizja pokazuje trzy postacie, kobiety (?) o nieziemskiej urodzie, otoczone naturą w pełnym rozkwicie. Każda z nich emanuje siłą i majestatem, a ich oczy pełne są starożytnej mądrości. Widzi, jak te postacie są czczone przez ludzi i inne stworzenia, które żyją w harmonii z naturą. Ale nagle obraz się zmienia.
+> 
+> Teraz widzi te same miejsca, ale są zniszczone i opuszczone. Święte miejsca, które były kiedyś pełne życia, teraz są martwe i puste. Widzi, jak te trzy postacie są pokonane, ich siła jest tłumiona, a ich światło gaśnie. W jej umyśle pojawia się obraz serca, bijącego z ogromną siłą, ale otoczonego cierniami i mrokiem.
+> 
+> Nagle, wizja przenosi się do mrocznego zamku na szczycie czarnej góry. Widzi postać mężczyzny o surowych rysach. Jego oczy są pełne mroku i smutku, a na jego twarzy widnieje wyraz wiecznej tęsknoty. W dłoniach trzyma różę, której płatki są czerwone jak krew.
+> 
+> Mężczyzna podnosi nagle wzrok i patrzy prosto na Nightchill. Na moment, jego oczy wydają się zaskoczone, ale potem jego twarzy staje się twarda i nieprzenikniona. Wizja nagle się urywa, pozostawiając Nightchill z uczuciem niepokoju i strachu. 
+> 
+> Nightchill doświadcza jeszcze jednej wizji. Widzi starszą kobietę, ubraną w kolorowe stroje, otoczoną dymem. Kobieta mówi do niej, że czeka na nich, że nadszedł czas, aby poznali swoje przeznaczenie. "Znajdźcie mnie".
+
 Zadanie: Relikt Ostrza Słońca
 
 Święty zakon wezwał was do odnalezienia legendarnego artefaktu.

@@ -82,3 +82,28 @@ coming.
 2. **Przemiana w Wilkołaka**: Po pierwszym zabójstwie, która jest już za nią, przemiana w wilkołaka mogłaby się stopniowo nasilać. Możliwe, że Mroczne Moce dałyby jej pewną kontrolę nad tą przemianą, ale za cenę coraz większej utraty ludzkości.
     
 3. **Pociąg do Zemsty**: Jej determinacja w poszukiwaniu zemsty mogłaby zostać wzmocniona przez Mroczne Moce, które prowadziłyby ją do kolejnych ofiar, ale sprawiały, że jej dusza staje się coraz cięższa od ciągłej nienawiści.
+
+
+---
+
+
+Imo lycanthropy shouldn't be a player character option - immunity to most forms of non-magic, non-silvered melee damage is annoying/OP (and I think this after running a pre-gen scenario which gave becoming a Weretiger out to one L5 character as a prize.......)
+
+I'd have Ezmerelda stare into the fire, and mutter something like :-
+"You speak to me of lycanthropy, as if it is something that calls to you, and a tool to consider. You are not the first. You think only of the power now, but imagine....
+
+Imagine the deepest, darkest impulses and the rawest, most incohesive rage within your mind, heart and soul, coagulating and intensifying, taking form as a primal Beast, and running rampant under the moon, unfettered, while you have no conscious control of what you do; nor even any memory.
+
+Imagine waking with your clothes, hair, face all matted sticky-thick with red and knowing with savage regret what the blood of the people you most love, and now will never see again, tastes like in your mouth.
+
+Imagine that vile sensation, that raw anger and malevolent, sadistic power rippling into every decision you ever make going forward, every choice, every feeling, every moment, even when the moon is not full but going through it's phases, you still it's slave.
+
+Imagine coughing up part of a finger.
+
+Imagine realising that the finger comes from a *very small child.*
+
+Worst of all, even than all of this - imagine how Strahd will own you, heart and soul - and how your mindless evil will grow in line with that Dark Tyrant's desire - and he will command you, eyes yellow and vulpine, and you will be unable to resist his demands: you will rejoice in them even, howling wild at the moon as your will becomes one with his and you become the mindless, damned, animalistic tool of evil"
+
+*Ezmerelda shudders*
+
+"Now, speak no more to me of lycanthropy - it is a dark thing, and a leg was an easy price to pay to be free of its curse, believe me."
